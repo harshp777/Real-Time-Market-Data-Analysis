@@ -1,0 +1,1 @@
+s3_connect = 'https://snowflake-powerbi.s3.ap-south-1.amazonaws.com/total_data.csv'	
