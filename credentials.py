@@ -1,1 +1,1 @@
-s3_connect = 'https://snowflake-powerbi.s3.ap-south-1.amazonaws.com/total_data.csv'	
+s3_connect = '' # give s3 path to retrieve data from	
