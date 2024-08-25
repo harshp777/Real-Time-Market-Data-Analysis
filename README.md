@@ -31,6 +31,26 @@ The architecture of this project leverages a series of AWS services to build an 
 6. **Data Visualization**:
    - **Power BI**: The final transformed and stored data in Snowflake is visualized through Power BI, offering powerful insights and analytics to stakeholders.
 
+**General Overview**
+
+![image](https://github.com/user-attachments/assets/e4dc0abc-ea7b-4044-9a27-0e75af5ee4bc)
+
+**Inflation and Trust**
+
+![image](https://github.com/user-attachments/assets/265cf627-ee3c-4ac1-bfbf-e028e5721042)
+
+**Multiple country comparison**
+
+![image](https://github.com/user-attachments/assets/beba315d-41ad-4921-825b-96fa1d17a107)
+
+**Multiple Markets comparison**
+
+![image](https://github.com/user-attachments/assets/c6c1f3af-3758-4c50-98ff-3c7d59efaa0e)
+
+
+
+
+
 ### Key Components
 
 - **Amazon EC2**: Handles the data extraction from market data APIs.
